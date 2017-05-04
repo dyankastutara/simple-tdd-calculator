@@ -1,0 +1,25 @@
+{
+  "name": "simple-tdd-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyankastutara/simple-tdd-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyankastutara/simple-tdd-calculator/issues"
+  },
+  "homepage": "https://github.com/dyankastutara/simple-tdd-calculator#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
